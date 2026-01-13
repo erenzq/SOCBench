@@ -1,16 +1,11 @@
 [green_agent]
-agentbeats_id = ""
-env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
+agentbeats_id = "019bb6e1-15df-71d1-a84c-4408de001eae"
+env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}"}
 
 [[participants]]
-agentbeats_id = ""
-name = "role_1_name"
-env = {}
-
-[[participants]]
-agentbeats_id = ""
-name = "role_2_name"
-env = {}
+agentbeats_id = "019bb6fa-67ad-7fe1-8b90-e96bf9e355e3"
+name = "agent"
+env = { NEBIUS_API_KEY = "${NEBIUS_API_KEY}"}
 
 [config]
-# Add your assessment config here
+num_rounds = 1
