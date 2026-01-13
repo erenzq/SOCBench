@@ -1,0 +1,20 @@
+{
+  "participants": {
+    "agent": "019bb6fa-67ad-7fe1-8b90-e96bf9e355e3"
+  },
+  "results": [
+    {
+      "winner": "Winner: agent (combined Recall = 0.43)",
+      "detail": {
+        "participants": {
+          "agent": {
+            "recall": 0.43,
+            "precision": 0.41,
+            "f1": 0.42
+          }
+        },
+        "winner": "Winner: agent (combined Recall = 0.43)"
+      }
+    }
+  ]
+}

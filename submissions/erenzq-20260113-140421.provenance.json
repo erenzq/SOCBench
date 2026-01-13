@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/erenzq/green-agent@sha256:4aa85711b272329879ba9db59064f05d77a493524b4bbd9591ee26aeceb79489",
+    "agent": "ghcr.io/erenzq/purple-agent@sha256:9047d7d0da563d8ddc7af24381db20b91157adb40511e6cad6b7c7d24fc66fd8",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-13T14:04:20Z",
+  "github_actions": {
+    "run_url": "https://github.com/erenzq/SOCBench/actions/runs/20959234496",
+    "run_logs_url": "https://api.github.com/repos/erenzq/SOCBench/actions/runs/20959234496/logs",
+    "ref": "refs/heads/erenzq-patch-1",
+    "sha": "d7153b8dd8f4ef40f5c75a2b55a55f857ca0c4d6",
+    "repository_url": "https://github.com/erenzq/SOCBench",
+    "workflow_ref": "erenzq/SOCBench/.github/workflows/run-scenario.yml@refs/heads/erenzq-patch-1",
+    "workflow_sha": "d7153b8dd8f4ef40f5c75a2b55a55f857ca0c4d6"
+  }
+}
